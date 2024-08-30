@@ -1,1 +1,1 @@
-# Unity.Shootaround for hunting game
+# Unity Shootaround for hunting game
